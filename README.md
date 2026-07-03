@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Web Development<br>Curious learner<br>Looking forward to collaborate on projects
+AI/ML Engineer | Robotics Developer |<br>Building intelligent sysytems with python,<br>Computer Vision, NLP, Gen AI & Automation.
 
 
 ## 🌐 Socials:
