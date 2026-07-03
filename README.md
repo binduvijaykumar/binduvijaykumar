@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI/ML Engineer | Robotics Developer |<br>Building intelligent sysytems with python,<br>Computer Vision, NLP, Gen AI & Automation.
+AI/ML Engineer | Robotics Developer |<br>Building intelligent systems with python,<br>Computer Vision, NLP, Gen AI & Automation.
 
 
 ## 🌐 Socials:
